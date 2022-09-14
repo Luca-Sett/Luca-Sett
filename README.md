@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Luca-Sett
+- 👀 I’m interested in web development using nuxt 3 and creating outstanding UIs
