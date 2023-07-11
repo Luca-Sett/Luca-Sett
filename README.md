@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Luca-Sett
-- 👀 I’m interested in web development using nuxt 3 and creating outstanding UIs
+- 👀 I’m interested in web development using Nuxt 3, Vue 3 and Tailwind :)
